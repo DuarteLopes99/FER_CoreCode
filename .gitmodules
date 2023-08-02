@@ -1,0 +1,3 @@
+[submodule "ElasticFace"]
+	path = ElasticFace
+	url = https://github.com/fdbtrs/ElasticFace
